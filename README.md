@@ -4,7 +4,7 @@
  - [x] Linux CLI, HTTP
  - [x] Git for Team Collaboration
  - [x] Front-End Basics
- - [ ] Responsive Layouts
+ - [x] Responsive Layouts
  - [ ] JavaScript Basics
  - [ ] Document Object Model
  - [ ] Building a Tiny JS World (pre-OOP) - practice
@@ -29,3 +29,7 @@ Nice course, will recommend this to other developers.
 ## Intro to HTML and CSS
 ![html css](./task_html_css_intro/html_css.png)
 Nothing really new to me.
+
+## Responsive Web Design
+![rwd](./task_responsive_web_design/responsive_design.png)
+Common responsive patterns - didn't know about them.
