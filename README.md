@@ -5,7 +5,7 @@
  - [x] Git for Team Collaboration
  - [x] Front-End Basics
  - [x] Responsive Layouts
- - [ ] JavaScript Basics
+ - [x] JavaScript Basics
  - [ ] Document Object Model
  - [ ] Building a Tiny JS World (pre-OOP) - practice
  - [ ] Object-Oriented JavaScript - practice
@@ -33,3 +33,8 @@ Nothing really new to me.
 ## Responsive Web Design
 ![rwd](./task_responsive_web_design/responsive_design.png)
 Common responsive patterns - didn't know about them.
+
+## JS Basics
+![js](./task_js_basics/intro_to_js.png)
+![js](./task_js_basics/js_algorythms.png)
+Waaaay harder than I expected! I don't know if I make it till the end...
